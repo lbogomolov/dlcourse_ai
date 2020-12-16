@@ -1,1 +1,5 @@
 .DS_Store
+assignments/assignment1/data/
+.python-version
+assignments/assignment1/.vscode/settings.json
+assignments/assignment1/__pycache__/
